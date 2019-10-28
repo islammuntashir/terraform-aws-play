@@ -1,4 +1,4 @@
-Terraform Remote State
+How to Manage Terraform Remote State
 =================================================
 
 Create an S3 Bucket
